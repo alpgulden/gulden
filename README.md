@@ -1,7 +1,7 @@
-A First Level Header
+Git Configuration
 ====================
 
-A Second Level Header
+Purpose
 ---------------------
 
 Now is the time for all good men to come to
